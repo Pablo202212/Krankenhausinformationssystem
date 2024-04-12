@@ -34,7 +34,7 @@ namespace Krankenhausinformationssystem.Daten
             if (!optionsBuilder.IsConfigured)
             {
                 // Konfigurieren der Verwendung der SQLite-Datenbank mit dem angegebenen Verbindungsstring
-                optionsBuilder.UseSqlite(@"Data Source=C:\Users\Lukas\source\repos\Krankenhausinformationssystem\Krankenhausinformationssystem\krankenhausinformationssystem.db");
+                optionsBuilder.UseSqlite(@"Data Source=C:\Users\parsa\Downloads\Krankenhausinformationssystem (5)\Krankenhausinformationssystem\krankenhausinformationssystem.db");
             }
 
             // Immer die Basis-Methode aufrufen, um das Basisverhalten einzuschließen
