@@ -1,1 +1,1 @@
-![Screenshot 2024-03-01 110054](https://github.com/Pablo202212/Krankenhausinformationssystem/assets/112069904/f8118b70-7210-4046-9ae0-812d71482e52)
+![Screenshot 2024-04-24 193213](https://github.com/Pablo202212/Krankenhausinformationssystem/assets/112069904/1d93dfe9-67c4-4b71-936c-1a49b99ee4f7)
